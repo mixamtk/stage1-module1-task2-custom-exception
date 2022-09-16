@@ -14,7 +14,7 @@ public class StudentManager {
     }
 
     public static void main(String[] args) {
-        TourOperator manager = new TourOperator();
+        StudentManagermanager = new StudentManager();
 
         for (long id : IDs) {
             try {
