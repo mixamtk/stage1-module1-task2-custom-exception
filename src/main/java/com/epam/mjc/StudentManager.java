@@ -14,7 +14,7 @@ public class StudentManager {
     }
 
     public static void main(String[] args) {
-        StudentManagermanager = new StudentManager();
+        StudentManager manager = new StudentManager();
 
         for (long id : IDs) {
             try {
